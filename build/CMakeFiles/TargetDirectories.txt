@@ -1,0 +1,3 @@
+/home/nyf/Code/Key_input/build/CMakeFiles/Key_input.dir
+/home/nyf/Code/Key_input/build/CMakeFiles/edit_cache.dir
+/home/nyf/Code/Key_input/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Key_input.dir/src/main.cpp.o -o Key_input  -levdev 
