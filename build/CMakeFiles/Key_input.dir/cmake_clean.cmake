@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Key_input.dir/src/main.cpp.o"
-  "CMakeFiles/Key_input.dir/src/main.cpp.o.d"
   "Key_input"
   "Key_input.pdb"
 )

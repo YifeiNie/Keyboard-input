@@ -27,7 +27,7 @@ void printKeyStatus(const KeyStatus& status) {
 }
 
 int main() {
-    const char* dev_path = "/dev/input/event6";  // 输入设备路径，根据实际情况修改
+    const char* dev_path = "/dev/input/event14";  // 输入设备路径，根据实际情况修改
     int fd = open(dev_path, O_RDONLY);
     if (fd == -1) {
         perror("打开设备失败");
